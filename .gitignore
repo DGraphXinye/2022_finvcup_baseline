@@ -1,7 +1,4 @@
-xydata/raw/
-xydata/processed/
-model_files/
-submit/
+xydata/processed
 tmp.ipynb
 
 # Byte-compiled / optimized / DLL files
