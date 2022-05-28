@@ -44,13 +44,13 @@ python inference_mini_batch.py --model sage_neighsampler --device 0
 - **GAT (NeighborSampler)**
 ```bash
 python train_mini_batch.py --model gat_neighsampler --epochs 200 --device 0
-python inference_mini_batch.py --model sage_neighsampler --device 0
+python inference_mini_batch.py --model gat_neighsampler --device 0
 ```
 
 - **GATv2 (NeighborSampler)**
 ```bash
 python train_mini_batch.py --model gatv2_neighsampler --epochs 200 --device 0
-python inference_mini_batch.py --model sage_neighsampler --device 0
+python inference_mini_batch.py --model gatv2_neighsampler --device 0
 ```
 
 ## Results:
