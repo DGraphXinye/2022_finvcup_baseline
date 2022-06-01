@@ -6,6 +6,7 @@ baseline代码中对"phase1_gdata.npz"的train_mask，随机按照6/4的比例�
 
 ## Environments
 Implementing environment:  
+- python = 3.7.6
 - numpy = 1.21.2  
 - pytorch = 1.6.0  
 - torch_geometric = 1.7.2  
